@@ -1,4 +1,2 @@
-# my-portfolio
-My portfolio 🥳
-
-This is a great portfolio for me!
+# My Portfolio
+My portfolio, a demo for UC Irvine... 🥳
