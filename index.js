@@ -68,7 +68,7 @@ function QuestionResponse(response) {
 // checkAnswer helper function. We show a response, if there is one.
 function Question(question, answers, correctAnswer){
   return `
-    <div style="font-weight: bold; color: blue;">${question}</div>
+    <div style="font-weight: bold; color: blue; text-decoration: underline;'">${question}</div>
     ${
       answers.map(answer => `
         <div>
